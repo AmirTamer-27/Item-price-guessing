@@ -59,7 +59,7 @@ Each model was trained and evaluated using different preprocessing techniques an
 - Used the same preprocessing steps as **Polynomial Regression**.
 - Key parameters: `n_estimators = 200`, `learning_rate = 0.3`, `max_depth = 6`.
 
----
+----
 
 ## Conclusion
 | Model | Score |
@@ -73,7 +73,7 @@ Each model was trained and evaluated using different preprocessing techniques an
 - Polynomial Regression also showed strong results.
 - Feature selection and hyperparameter tuning played a crucial role in performance.
 
----
+----
 
 ## 🚀 How to Run
 1. Clone the repository:
